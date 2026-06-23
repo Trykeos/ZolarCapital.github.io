@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zolarcapital.com/sitemap.xml

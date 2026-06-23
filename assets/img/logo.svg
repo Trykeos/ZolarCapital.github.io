@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img" aria-label="Zolar Capital logo">
+  <rect x="4" y="8" width="48" height="48" rx="16" fill="#0f172a"/>
+  <path d="M17 21h22v6L25 37h16v6H17v-6l14-10H17z" fill="#7dd3fc"/>
+  <text x="66" y="40" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#0f172a">Zolar Capital</text>
+</svg>
